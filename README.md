@@ -1,5 +1,5 @@
 ### Fahim
-#### Programmer
+#### Student
 
 ![Header](./github-header.png)
 
