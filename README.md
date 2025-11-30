@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-Learning something new every day - student, coder, and curious tinkerer.
+Learning something new every day - student, programmer, and curious tinkerer.
 </p>
 
 <p align="center">
